@@ -2,7 +2,7 @@
 
 Repository to study graphics using Vulkan. 
 
-From the project: [NVIDIA Vulkan Ray Tracing Tutorials](github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
+From the project: [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 
 ---
 
