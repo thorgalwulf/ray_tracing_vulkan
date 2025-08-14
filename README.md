@@ -16,7 +16,7 @@ From the project: [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro
 
 ### 2. Clone (Download)
 ```bash
-git clone https://github.com/nvpro-samples/build_all.git
+git clone --recurse-submodules https://github.com/thorgalwulf/ray_tracing_vulkan.git
 cd build_all
 clone_all.bat
 ```
